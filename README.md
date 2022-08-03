@@ -1,17 +1,27 @@
 
+<!-- PROJECT SHIELDS -->
+<!--
 *** I'm using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!-- Pilot LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/VA-CCPI/Pilot_Template/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Pilot_Template</h3>
+  <h3 align="center">Best Pilot README Template</h3>
 
   <p align="center">
     Pilot Code Purpose
@@ -29,19 +39,16 @@
   </p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT THE Pilot -->
+## About The Pilot
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Pilot Name Screen Shot][product-screenshot]](https://www.innovation.va.gov/careandpayment/home.html)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Pilot Code Repository Purpose:
+* Agile AHDR Execution
+* Digital Transformation: Devops Integration with Implementation Teams to produce valuable product lines for field operations
+* Standard operations to reduce silos and enhance data-driven approaches in clinical care :smile:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 Use the `BLANK_README.md` to get started.
 
