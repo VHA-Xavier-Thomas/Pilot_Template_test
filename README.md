@@ -32,6 +32,7 @@
     <br />
     <a href="https://github.com/department-of-veterans-affairs/demo-product">View Optimal Sample Product Demo</a>
     ·
+    <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/test.md"> AHDR SQL </a>
     <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/bug_report.md">Report Bug</a>
     ·
     <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/task.md"> Task </a>
