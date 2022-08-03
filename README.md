@@ -18,6 +18,6 @@
     ·
     <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/task.md"> Task </a>
     ·
-    <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/test.md"> Task </a>
+    <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/test.md"> Test </a>
   </p>
 </div>
