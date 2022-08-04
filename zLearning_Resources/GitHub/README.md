@@ -1,22 +1,28 @@
-
+<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <ul>
-        <li><a href="#prerequisites">Prerequisites</a><ul>
-        <li><a href="#installation">Installation</a><ul>
-        <li><a href="#Cloning Repositories">Cloning Repositories</a><ul>
-        <li><a href="#Creating and Managing GitHub Pilot Teams">Creating and Managing GitHub Pilot Teams</a></li>
+    <li>
+      <a href="#Pilot-GitHub-Repository-Setup">Pilot-GitHub-Repository-Setup</a>
+      <ul><li><li>
+       <a href="#Step-1:-Cloning Repositories">Cloning Repositories</a>
+        <ul><li>
+         <a href="#Step-2:-Creating-Pilot-GitHub-Teams">Creating Pilot GitHub Teams</a>
+         <ul><li>
+        <a href="#Step-3:-Managing-Repository">Managing Repository</a></li>
+          <ul><li>
+        <a href="#Step-4:-Managing-Pilot-Teams">Managing Pilot Teams</a></li>
+            <ul><li>
+        <a href="#Step-5:-Other-Actions">Other Actions</a></li>
      
     <ol>
-
-     
-   <br>
-# Pilot GitHub Repository Set-Up
+<details>
+  
+# Pilot GitHub Repository SetUp
 #### Step 1: Cloning Repository Templates
 #### Step 2: Creating Pilot GitHub Teams
 #### Step 3: Managing Repository
-#### Step 4: Pilot Teams
+#### Step 4: Managing Pilot Teams
 #### Step 5: Other Actions
 
 ## Installation
