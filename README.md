@@ -16,7 +16,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/VA-CCPI/Pilot_Template/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src=".images/CCPI.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best Pilot README Template</h3>
