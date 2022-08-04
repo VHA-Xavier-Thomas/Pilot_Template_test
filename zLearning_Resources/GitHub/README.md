@@ -6,13 +6,13 @@
       <a href="#Pilot-GitHub-Repository-Setup">Pilot-GitHub-Repository-Setup</a>
       <ul><li><li>
        <a href="#Step-1:-Cloning Repositories">Cloning Repositories</a>
-       <ul><li>
+       <li>
         <a href="#Step-2:-Creating-Pilot-GitHub-Teams">Creating Pilot GitHub Teams</a>
         <li>
         <a href="#Step-3:-Managing-Repository">Managing Repository</a>
-         <ul><li>
+         <li>
          <a href="#Step-4:-Managing-Pilot-Teams">Managing Pilot Teams</a>
-            <ul><li>
+          ><li>
         <a href="#Step-5:-Other-Actions">Other Actions</a>
      
     <ol>
