@@ -49,10 +49,11 @@ Take this template, and add your code. This will include all Tools, Data Explora
 - Data Management Maturity
 - Access, Build, and Automate Instructions
 - Information on all development, analysis, and testing
-- 
+- Business Intelligence
+- Guidance on pilot product lines and associated devops code repo's
+
 <!-- ABOUT THE Pilot -->
 ## About The Pilot
-
 [![Pilot Name Screen Shot][product-screenshot]](https://www.innovation.va.gov/careandpayment/home.html)
 
 Pilot Code Repository Purpose:
