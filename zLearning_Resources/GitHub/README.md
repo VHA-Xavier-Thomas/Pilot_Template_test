@@ -7,9 +7,9 @@
         <li><a href="#installation">Installation</a><ul>
         <li><a href="#Cloning Repositories">Cloning Repositories</a><ul>
         <li><a href="#Creating and Managing GitHub Pilot Teams">Creating and Managing GitHub Pilot Teams</a></li>
-     </ul>
+     
     <ol>
- <details>
+
      
    <br>
 # Pilot GitHub Repository Set-Up
