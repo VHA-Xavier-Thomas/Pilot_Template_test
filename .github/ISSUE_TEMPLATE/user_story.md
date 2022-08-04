@@ -5,6 +5,7 @@ about: Product User Story
 title: 'User Story - '
 labels: 'user story'
 assignees: ''
+
 ---
 
 ## User Story
