@@ -18,9 +18,9 @@
           <a href="###Step-6:-Installation">Installation</a>
         <li>
         <a href="###Step-7:-Other-Actions">Other Actions</a>
-        <\ul>
-        
-    </ol>
+        </ul>
+        <\li>
+    <\ol>
 </details> 
         
 ## Pilot GitHub Repository Setup </a>
