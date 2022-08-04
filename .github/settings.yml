@@ -34,7 +34,7 @@
   - name: severity 2 high
     color: d73a4a
     description: High severity bug
-<---
+
   - name: severity 3 medium
     color: d73a4a
     description: Medium severity bug
