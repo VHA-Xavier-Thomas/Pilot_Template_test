@@ -43,6 +43,7 @@ Note: To have access to the /invite command you must be a member of the github-s
  https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions
 
 ### Step 3: Cloning Repository
+https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va
 ### Step 4: Managing Repository
 #### Settings:
 ### Step 5: Standard-Naming-Conventions
