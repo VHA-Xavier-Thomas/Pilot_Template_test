@@ -1,6 +1,5 @@
 
-      <!-- TABLE OF CONTENTS -->
-
+<details>
   <summary>Table of Contents</summary>
   <ol>
       <ul>
@@ -10,7 +9,7 @@
         <li><a href="#Creating and Managing GitHub Pilot Teams">Creating and Managing GitHub Pilot Teams</a></li>
       </ul>
     <ol>
-  <details>
+ <details>
       
 # Pilot GitHub Repository Set-Up
 #### Step 1: Cloning Repository Templates
