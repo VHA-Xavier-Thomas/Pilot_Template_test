@@ -25,34 +25,34 @@
         
 ## Pilot GitHub Repository Setup </a>
 ### Step 1: Access to Veteran Affairs Enterprise at GitHub.com
-https://department-of-veterans-affairs.github.io/github-handbook/guides/onboarding/getting-access#step-1-githubcom-account <li>
+https://department-of-veterans-affairs.github.io/github-handbook/guides/onboarding/getting-access#step-1-githubcom-account <ul>
 
 ### Onboarding Other Users
 ###### Adding Users Through Github-Support
-<li> Navigate to github-support issues </a><li>
-Navigate to a user request issue or create a new issue detailing the user that is getting added </a><li>
-Add a comment to the issue with the /invite user.email@va.gov</a> <li>
+<li> Navigate to github-support issues </a><ul>
+<li> Navigate to a user request issue or create a new issue detailing the user that is getting added </a>
+<li> Add a comment to the issue with the /invite user.email@va.gov</a> <ul><ul>
 *Note: To have access to the /invite command you must be a member of the github-support Triage team*
 </a>
 
 ### Step 2: Creating and Managing Pilot GitHub Teams
-##### Team Types https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx
-<li> Creating Teams <a/>
+#### Team Types https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx
+##### Creating Teams </a><ul>
  https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va
-<li>  Managing Teams</a>
-<li>  Separate Duties </a>
+ ##### Managing Teams</a><ul>
+ ##### Separate Duties </a><ul>
  https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va
-###### Permissions </a>
+ ###### Permissions </a><ul>
  https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions
 
 
-### Step 3: Cloning Repository
+### Step 3: Cloning Repository <ul>
 https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va </a>
-<li>Cloning an existing GitHub repository will create a full copy on the user’s computer, allowing the user to make edits, </a>
-add, and remove files, and push larger commits locally and easily. </a>
-<li>Changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.  </a>
-<li>To clone an existing repository:<a\> <li>
-1.On the main page of the GitHub repository, click the iconat the top right of the window. <a/> <li>
+<li>Cloning an existing GitHub repository will create a full copy on the user’s computer, allowing the user to make edits, </a><ul>
+add, and remove files, and push larger commits locally and easily. </a><ul>
+<li>Changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.  </a> <ul>
+<li>To clone an existing repository:</a> <li></ul>
+1.On the main page of the GitHub repository, click the iconat the top right of the window. <a/> <li></ul>
 2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. <a/>
   
 ### Step 4: Managing Repository
