@@ -37,10 +37,7 @@
     
   </p>
 </div>
-
 Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -92,6 +89,8 @@ Capabilities of GitHub utilization for Pilot Success:
 - Digital Transformation: Devops Integration with Implementation Teams for Agile Field Operations and Data Collection
 - Access, Build, and Automate Instructions
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- TEAM CONTACTS -->
 ## Team Contacts
 justify-content: space-evenly;
@@ -99,7 +98,6 @@ justify-content: space-evenly;
 ## VA Innovation Ecoysystem Pilot Implementation Technology
 Add technology your pilot utilizes such as the following:
  <a href="https://community.max.gov/x/P_p9i"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powerbi.svg' alt='PowerBI' height='30' ></a>  
- 
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -107,34 +105,30 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+#### Step 1: Cloning Repository Templates
+#### Step 2: Creating Pilot GitHub Teams
+#### Step 3: Managing Pilot Teams and Repositories
 
 
 ### Installation
-
-
-
+#### Installing Github Desktop
+#### Installing Git
 
 <!-- ROADMAP -->
 ## Roadmap
-
 - [ ] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/VA-CCPI/Pilot_Template/.github/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- CONTRIBUTING -->
 ## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Contributing a suggesting for code improvement, fork the repo and create a pull request. 
+You can also simply open an issue with the tag "enhancement".
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -144,31 +138,21 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
+*The Pilot or DevOps Lead will configure the licensing based on product line requirements.*
+ See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
-## Contact
-
+## Pilot Contact Information
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
 * []()
 * []()
 * []()
@@ -176,7 +160,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <div align="center">
   <a href="https://github.com/VA-CCPI/Pilot_Template"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' ></a>  
-  <a href="https://www.facebook.com/hashtag/vetsmile/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg' alt='linkedin' height='40'> </a>  
+  <a href="https://www.facebook.com/hashtag/vetsmile/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg' alt='linkedin' height='40'> </a> 
   <a href="https://twitter.com/ADANews/status/1553119573976797187"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
 </div>
 
