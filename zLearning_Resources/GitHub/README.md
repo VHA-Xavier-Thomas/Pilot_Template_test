@@ -36,6 +36,7 @@ Note: To have access to the /invite command you must be a member of the github-s
 ### Step 2: Creating and Managing Pilot GitHub Teams
 ##### Team Types https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx
 ##### Creating Teams
+ https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va
 ##### Managing Teams
 ###### Separate Duties
  https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va
