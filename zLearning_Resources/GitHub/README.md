@@ -28,7 +28,7 @@ https://github.com/department-of-veterans-affairs/
 <li>If you do not already have VA GitHub access: <li>
 Enable two-factor authentication on your GitHub account<li>
 Associate your VA email to your GitHub account <li>
-Then, from the VA network (GFE or CAG) go to https://vaww.oit.va.gov/services/github/#signup and complete the form to <li>request access to the DSVA GitHub Organization.
+Then, from the VA network (GFE or CAG) go to https://vaww.oit.va.gov/services/github/#signup and complete the form to request access to the DSVA GitHub Organization. <li>
 **Before moving to the next step, your team must be fully onboarded and added to the Veterans Affairs Github Enterprise<li>
 
 ### Step 2: Creating and Managing Pilot GitHub Teams
