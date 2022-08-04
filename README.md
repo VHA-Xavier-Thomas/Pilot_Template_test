@@ -76,7 +76,7 @@ Use the `BLANK_README.md` to get started.
 </details>
 
 <!-- PILOT DESCRIPTION -->
-
+# Introduction
 ## About The Pilot
 [![Pilot Name Screen Shot][product-screenshot]](https://www.innovation.va.gov/careandpayment/home.html)
 ## Pilot Repository Template Purpose
@@ -98,13 +98,15 @@ Capabilities of GitHub utilization for Pilot Success:
 
 <!-- TEAM CONTACTS -->
 ## Team Contacts
+justify-content: space-evenly;
 
 ## VA Innovation Ecoysystem Pilot Implementation Technology
-
+Add technology your pilot utilizes such as the following:
+ <a href="https://community.max.gov/x/P_p9i"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powerbi.svg' alt='PowerBI' height='30' ></a>  
+ 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
