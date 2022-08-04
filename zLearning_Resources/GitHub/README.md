@@ -28,11 +28,11 @@ https://department-of-veterans-affairs.github.io/github-handbook/guides/onboardi
 
 ### Onboarding other users
 ###### Adding Users Through github-support
-Navigate to github-support issues
-Navigate to a user request issue or create a new issue detailing the user that is getting added
-Add a comment to the issue with the /invite user.email@va.gov
+Navigate to github-support issues <li>
+Navigate to a user request issue or create a new issue detailing the user that is getting added <li>
+Add a comment to the issue with the /invite user.email@va.gov <li>
 Note: To have access to the /invite command you must be a member of the github-support Triage team
-  
+  <li><li>
 ### Step 2: Creating and Managing Pilot GitHub Teams
 ##### Team Types https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx
 ##### Creating Teams
