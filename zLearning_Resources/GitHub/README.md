@@ -30,8 +30,8 @@ https://department-of-veterans-affairs.github.io/github-handbook/guides/onboardi
 #### Onboarding Other Users
 ###### Adding Users Through Github-Support
 <li> Navigate to github-support issues </a><ul>
-<li> Navigate to a user request issue or create a new issue detailing the user that is getting added </a>
-<li> Add a comment to the issue with the /invite user.email@va.gov</a> <ul><ul>
+<li> Navigate to a user request issue or create a new issue detailing the user that is getting added </a> <ul>
+<li> Add a comment to the issue with the /invite user.email@va.gov</a> <ul>
 *Note: To have access to the /invite command you must be a member of the github-support Triage team*
 <\ul>
   <\ul>
