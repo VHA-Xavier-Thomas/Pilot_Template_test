@@ -30,7 +30,7 @@
     <br />
     <a href="https://github.com/department-of-veterans-affairs/demo-product">View Optimal Sample Product Demo</a>
     ·
-    <a href="https://github.com/VA-CCPI/Pilot_Template/Code"> AHDR SQL </a>
+    <a href="https://github.com/VA-CCPI/Pilot_Template/Code/README.md"> AHDR SQL </a>
     <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/bug_report.md">Report Bug</a>
     ·
     <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/task.md"> Task </a>
@@ -40,26 +40,6 @@
   </p>
 </div>
 
-This repository is a template for code projects at VA.
-While this template doesn't contain code -- that's for you to add -- it does have the issue templates and standard folder 
-structure you will need for agile project management at VA.
-
-Take this template, and add your code. This will include all Tools, Data Exploration, Design, Analysis, Monitoring and Evaluation, and DevOps/DevSecOps required to ensure Pilot Scalability and Evaluation:
-- AHDR's
-- Data Management Maturity
-- Access, Build, and Automate Instructions
-- Information on all development, analysis, and testing
-- Business Intelligence
-- Guidance on pilot product lines and associated devops code repo's
-
-<!-- ABOUT THE Pilot -->
-## About The Pilot
-[![Pilot Name Screen Shot][product-screenshot]](https://www.innovation.va.gov/careandpayment/home.html)
-
-Pilot Code Repository Purpose:
-* Agile AHDR Execution
-* Digital Transformation: Devops Integration with Implementation Teams to produce valuable product lines for field operations
-* Standard operations to reduce silos and enhance data-driven approaches in clinical care :smile:
 
 Use the `BLANK_README.md` to get started.
 
@@ -96,7 +76,25 @@ Use the `BLANK_README.md` to get started.
 </details>
 
 <!-- PILOT DESCRIPTION -->
-## About the Pilot
+
+## About The Pilot
+[![Pilot Name Screen Shot][product-screenshot]](https://www.innovation.va.gov/careandpayment/home.html)
+## Pilot Repository Template Purpose
+This repository is a template for code projects at VA.
+While this template doesn't contain code -- that's for you to add -- it does have the issue templates and standard folder 
+structure you will need for agile project management at VA.
+
+Take this template, and add your code. This will include all Tools, Data Exploration, Design, Analysis, Monitoring and Evaluation, and 
+DevOps/DevSecOps required to ensure Pilot scalability and evaluation:
+
+- Agile AHDR Execution
+- Digital Transformation: Devops Integration with Implementation Teams to produce valuable product lines for field operations
+- Access, Build, and Automate Instructions
+- Information on all development, analysis, and testing
+- Data Management Maturity
+- Business Intelligence
+- Guidance on pilot product lines and associated devops code repo's
+- Standard operations to reduce silos and enhance data-driven approaches in clinical care :smile:
 
 <!-- TEAM CONTACTS -->
 ## Team Contacts
