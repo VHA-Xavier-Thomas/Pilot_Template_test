@@ -22,7 +22,6 @@
   <h3 align="center">Best Pilot Repo Template</h3>
 
   <p align="center">
-    Pilot Code Purpose
     <br />
     <a href="https://github.com/VA-CCPI/Pilot_Template"><strong>Explore the docs »</strong></a>
     <br />
