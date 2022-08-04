@@ -1,4 +1,4 @@
-labels:
+--->labels:
   - name: backlog
     color: ce7048
     description: To be addressed in a future sprint
@@ -34,7 +34,7 @@ labels:
   - name: severity 2 high
     color: d73a4a
     description: High severity bug
-
+<---
   - name: severity 3 medium
     color: d73a4a
     description: Medium severity bug
