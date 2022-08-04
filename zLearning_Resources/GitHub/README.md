@@ -5,13 +5,13 @@
     <li>
       <a href="#Pilot-GitHub-Repository-Setup">Pilot-GitHub-Repository-Setup</a>
       <ul><li>
-       <a href="###Step-1:-Access-to-Veteran-Affairs-Enterprise-at-GitHub.com">VA Enterprise GitHub Access</a> <\ul>
+       <a href="###Step-1:-Access-to-Veteran-Affairs-Enterprise-at-GitHub.com">VA Enterprise GitHub Access</a> <ul>
        <li>
-        <a href="###Step 2: Creating and Managing Pilot GitHub Teams">Creating and Managing Pilot GitHub Teams</a><\ul>
+        <a href="###Step 2: Creating and Managing Pilot GitHub Teams">Creating and Managing Pilot GitHub Teams</a><ul>
         <li>
         <a href="###Step-3:-Cloning-Repository">Cloning Repository</a><ul>
          <li>
-           <a href="###Step-4:-Managing-Repository">Managing Repository</a> <\ul>
+           <a href="###Step-4:-Managing-Repository">Managing Repository</a> <ul>
           <li>
         <a href="###Step-5:-Standard-Naming-Conventions">Naming Conventions</a>
         <li>
