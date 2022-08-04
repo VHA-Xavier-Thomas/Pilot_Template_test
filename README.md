@@ -28,7 +28,7 @@
     <br />
     <a href="https://github.com/department-of-veterans-affairs/demo-product">View Optimal Sample Product Demo</a>
     ·
-    <a href="https://github.com/VA-CCPI/Pilot_Template/Code/README.md"> AHDR SQL </a>
+    <a href="https://github.com/VA-CCPI/Pilot_Template/Code/README.md"> Code </a>
     <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/bug_report.md">Report Bug</a>
     ·
     <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/task.md"> Task </a>
@@ -37,7 +37,6 @@
     
   </p>
 </div>
-Use the `BLANK_README.md` to get started.
 
 <!-- TABLE OF CONTENTS -->
 <details>
