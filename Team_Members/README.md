@@ -1,3 +1,3 @@
 
-|Team Member 1 | Image | Contact | Social Media | About me|
-|--------------|-------|---------|-------------|----------|
+|Team Member   | Position | Role | Image | Contact | Social Media | About me|
+|--------------|----------|-------|-------|--------|--------------|---------|
