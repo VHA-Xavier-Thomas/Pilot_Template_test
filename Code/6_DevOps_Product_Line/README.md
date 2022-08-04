@@ -1,27 +1,5 @@
----
-CM			Configuration and Change Management
-
-Design			Analysis, Design and  Business Modeling
-
-Env_Depl_Impl		Environment Docs and Deployment Docs and Implementation Docs
-
-FOIA			Freedom of Information Act
-
-Other			Miscellaneous 
-
-PM			Project Management
-
-Reference		Reference
-
-
-Released_PDFs		PDFs
-
-Requirement		Requirements
-
-Test			Test
-
-Third_Party		Manuals, Guides or other assistive documentation
-
+All Code associated with the production of the product developed for pilot implementation should be stored in a repository cloned  by the Code project Template. Next, the lead will document all corresponding information in the product line repository.
 
 ---
+https://github.com/VA-CCPI/Product_Line_Template
 https://github.com/VA-CCPI/Code_Project_Template
