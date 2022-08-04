@@ -43,8 +43,9 @@ Then, from the VA network (GFE or CAG) go to https://vaww.oit.va.gov/services/gi
 ## Installation
 #### Github Desktop Installation
 Click on the Software Center on your desktop.
-![image](https://user-images.githubusercontent.com/105750400/182799638-8b986305-3726-499f-92df-ae319d04c2c6.png)
-Next, download the GitHub Desktop application and following the instructions displayed from the application once downloaded.
+<img src="https://user-images.githubusercontent.com/105750400/182799638-8b986305-3726-499f-92df-ae319d04c2c6.png" alt="Logo" width="40" height="90">
+
+  Next, download the GitHub Desktop application and following the instructions displayed from the application once downloaded.
 <img src="https://user-images.githubusercontent.com/105750400/182800055-dccd42af-a1ba-4c8b-9aa1-f3fde39f74e5.png" alt="Logo" width="140" height="160">
  
 
