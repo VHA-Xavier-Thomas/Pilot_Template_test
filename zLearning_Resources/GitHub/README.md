@@ -25,7 +25,7 @@
 ## Pilot GitHub Repository SetUp
 ### Step 1: Veteran Affairs Access
 https://department-of-veterans-affairs.github.io/github-handbook/guides/onboarding/getting-access#step-1-githubcom-account <li>
-**Before moving to the next step, your team must be fully onboarded and added to the Veterans Affairs Github Enterprise<li>**
+
 ### Onboarding other users
 ###### Adding Users Through github-support
 Navigate to github-support issues
