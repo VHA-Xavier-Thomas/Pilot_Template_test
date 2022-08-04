@@ -85,22 +85,21 @@ While this template doesn't contain code -- that's for you to add -- it does hav
 structure you will need for agile project management at VA.
 
 Take this template, and add your code. This will include all Tools, Data Exploration, Design, Analysis, Monitoring and Evaluation, and 
-DevOps/DevSecOps required to ensure Pilot scalability and evaluation:
+DevOps/DevSecOps required to ensure Pilot scalability and evaluation.
 
-- Agile AHDR Execution
-- Digital Transformation: Devops Integration with Implementation Teams to produce valuable product lines for field operations
-- Access, Build, and Automate Instructions
-- Information on all development, analysis, and testing
+Capabilities of GitHub utilization for Pilot Success:
+- Agile Data Analysis
+- Observability of all development, analysis, and testing
 - Data Management Maturity
 - Business Intelligence
-- Guidance on pilot product lines and associated devops code repo's
-- Standard operations to reduce silos and enhance data-driven approaches in clinical care :smile:
+- Guidance on Pilot Product Line Repositories and Corresponding Code Repositories
+- Digital Transformation: Devops Integration with Implementation Teams for Agile Field Operations and Data Collection
+- Access, Build, and Automate Instructions
 
 <!-- TEAM CONTACTS -->
 ## Team Contacts
 
 ## VA Innovation Ecoysystem Pilot Implementation Technology
-
 
 
 <!-- GETTING STARTED -->
