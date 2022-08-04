@@ -7,6 +7,6 @@
 
 ## Installation
 
-Github Desktop
+### Github Desktop Installation
 
-Git
+### Git Installation
