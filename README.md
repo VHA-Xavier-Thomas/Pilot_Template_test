@@ -44,19 +44,12 @@ Use the `BLANK_README.md` to get started.
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#About-the-Pilot">About The Pilot</a>
+      <a href="#getting-started">Getting Started</a>
+      <ul><li>
+      <a  href="#About-the-Pilot">About The Pilot</a>
       <ul><li>
       <a href="#Team-Contacts">Team Contacts</a>
         <li><a href="#VA-Innovatio-Ecoysystem-Pilot-Implementation-Technology">VA Innovation Ecoysystem Pilot Implementation Technology</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#Cloning Repositories">Cloning Repositories</a></li>
-        <li><a href="#Creating and Managing GitHub Pilot Teams">Creating and Managing GitHub Pilot Teams</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -67,6 +60,9 @@ Use the `BLANK_README.md` to get started.
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+## Pilot GitHub Setup
+Please reference [GitHub Learning](https://github.com/VA-CCPI/Pilot_Template/zLearning/GitHub/README.md)  for information on installation, cloning a repository, creating teams, and other required start-up actions.
 
 <!-- PILOT DESCRIPTION -->
 # Introduction
@@ -93,24 +89,15 @@ Capabilities of GitHub utilization for Pilot Success:
 
 <!-- TEAM CONTACTS -->
 ## Team Contacts
-justify-content: space-evenly;
+justify-content: space-evenly; hi
 
 ## VA Innovation Ecoysystem Pilot Implementation Technology
 Add technology your pilot utilizes such as the following:
  <a href="https://community.max.gov/x/P_p9i"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powerbi.svg' alt='PowerBI' height='30' ></a>  
 
 <!-- GETTING STARTED -->
-## Getting Started
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-Please reference ZLearning Resources/Github for information on cloning a repository, creating teams, and other required start-up actions.
-[GitHub Learning](https://github.com/VA-CCPI/Pilot_Template/zLearning/GitHub/README.md) 
 
-### Installation
-#### Installing Github Desktop
-#### Installing Git
 
 <!-- ROADMAP -->
 ## Roadmap
