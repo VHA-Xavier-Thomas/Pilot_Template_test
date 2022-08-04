@@ -1,4 +1,3 @@
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -13,7 +12,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 <!--
-
 <!-- Pilot LOGO -->
 <br />
 <div align="center">
@@ -40,11 +38,9 @@
   </p>
 </div>
 
-
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
