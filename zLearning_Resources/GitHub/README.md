@@ -47,6 +47,7 @@ Note: To have access to the /invite command you must be a member of the github-s
 https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va
 ### Step 4: Managing Repository
 #### Settings:
+#####Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data
 ### Step 5: Standard-Naming-Conventions
 ### Step 6: Other Actions
 #### Creating a README.md for your GitHub Repository
