@@ -16,7 +16,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/VA-CCPI/Pilot_Template/">
-    <img src="/.images/CCPI.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/VA-CCPI/Pilot_Template/.images/CCPI.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best Pilot README Template</h3>
@@ -97,8 +97,6 @@ Add technology your pilot utilizes such as the following:
 
 <!-- GETTING STARTED -->
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 - [ ] Feature 1
@@ -108,6 +106,29 @@ Add technology your pilot utilizes such as the following:
 
 See the [open issues](https://github.com/VA-CCPI/Pilot_Template/.github/issues) for a full list of proposed features (and known issues).
 
+## Code Description
+**Note:** GitHub.com repositories should **NOT** contain sensitive information of any kind
+### Deployment
+
+#### Branching strategy
+
+**UPDATE THIS FOR YOUR PROJECT AND BUILD STRATEGY**
+
+Certain branches are special, and would ordinarily be deployed to various test environments:
+
+- master: our default branch, for production-ready code. Master is always deployable. In our case, however, deployment does not happen automatically.
+- pre-prod: code destined for the pre-production test server. This code might be deployed by hand or automatically, depending on the project and availability of a CI/CD solution.
+- test: code that would probably autotmatically be pushed to a test or staging server. Again, in our case we don't do this -- but test deployment tasks like this are ideally automated with a CI/CD solution like Jenkins.
+
+New code should be produced on a feature branch [following GitHub flow](https://guides.github.com/introduction/flow/). Most often, you'll want to branch from **master**, since that's the latest in production. File a pull request to merge into **test**, which can be deployed to our testing environment.
+
+
+
+### Testing
+
+
+
+### Installing
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
