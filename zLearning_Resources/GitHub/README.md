@@ -14,16 +14,15 @@
          <a href="#Step-4:-Managing-Pilot-Teams">Managing Pilot Teams</a>
           ><li>
         <a href="#Step-5:-Other-Actions">Other Actions</a>
-     
     <ol>
 </details> 
         
-# Pilot GitHub Repository SetUp
-## Step 1: Cloning Repository Templates
-## Step 2: Creating Pilot GitHub Teams
-## Step 3: Managing Repository
-## Step 4: Managing Pilot Teams
-## Step 5: Other Actions
+## Pilot GitHub Repository SetUp
+### Step 1: Cloning Repository Templates
+### Step 2: Creating Pilot GitHub Teams
+### Step 3: Managing Repository
+### Step 4: Managing Pilot Teams
+### Step 5: Other Actions
 
 ## Installation
 #### Github Desktop Installation
