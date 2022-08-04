@@ -105,9 +105,7 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-#### Step 1: Cloning Repository Templates
-#### Step 2: Creating Pilot GitHub Teams
-#### Step 3: Managing Pilot Teams and Repositories
+Please reference ZLearning Resources/Github for information on cloning a repository, creating teams, and other required start-up actions.
 
 
 ### Installation
