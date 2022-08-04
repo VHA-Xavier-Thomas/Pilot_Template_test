@@ -30,8 +30,22 @@ Enable two-factor authentication on your GitHub account<li>
 Associate your VA email to your GitHub account <li>
 Then, from the VA network (GFE or CAG) go to https://vaww.oit.va.gov/services/github/#signup and complete the form to request access to the DSVA GitHub Organization. <li>
 **Before moving to the next step, your team must be fully onboarded and added to the Veterans Affairs Github Enterprise<li>
-
+#### Onboarding other users
+###### Adding Users Through github-support
+Navigate to github-support issues
+Navigate to a user request issue or create a new issue detailing the user that is getting added
+Add a comment to the issue with the /invite user.email@va.gov
+Note: To have access to the /invite command you must be a member of the github-support Triage team
+  
 ### Step 2: Creating and Managing Pilot GitHub Teams
+##### Team Types https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx
+##### Creating Teams
+##### Managing Teams
+###### Separate Duties
+ https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va
+###### Permissions
+ https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions
+
 ### Step 3: Cloning Repository
 ### Step 4: Managing Repository
 #### Settings:
