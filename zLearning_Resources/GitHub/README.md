@@ -25,6 +25,13 @@
 ## Pilot GitHub Repository SetUp
 ### Step 1: Veteran Affairs Access
 https://github.com/department-of-veterans-affairs/
+
+:  If you do not already have VA GitHub access:
+•	Enable two-factor authentication on your GitHub account
+•	Associate your VA email to your GitHub account 
+•	Then, from the VA network (GFE or CAG) go to https://vaww.oit.va.gov/services/github/#signup and complete the form to request access to the DSVA GitHub Organization.
+**Before moving to the next step, your team must be fully onboarded and added to the Veterans Affairs Github Enterprise
+
 ### Step 2: Creating and Managing Pilot GitHub Teams
 ### Step 3: Cloning Repository
 ### Step 4: Managing Repository
