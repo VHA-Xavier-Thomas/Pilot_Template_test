@@ -14,7 +14,7 @@
          <a href="#Step-4:-Managing-Pilot-Teams">Managing Pilot Teams</a>
          <li>
         <a href="#Step-5:-Other-Actions">Other Actions</a>
-        <li><li>
+        <ol>
         <ul>
          <a href="#Installation">Installation</a>  
     <ol>
