@@ -19,7 +19,7 @@
         <li>
         <a href="###Step-7:-Other-Actions">Other Actions</a>
         <ol>
-          </ul></li>
+        
     </ol>
 </details> 
         
@@ -55,6 +55,7 @@ add, and remove files, and push larger commits locally and easily. </a><ul>
 1.On the main page of the GitHub repository, click the iconat the top right of the window. <a/> <\ul><li>
 2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. <a/>
   </ol>
+  </details>
 ### Step 4: Managing Repository
 ##### Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data
   
