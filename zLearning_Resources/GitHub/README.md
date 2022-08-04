@@ -4,7 +4,7 @@
   <ol>
     <li>
       <a href="#Pilot-GitHub-Repository-Setup">Pilot-GitHub-Repository-Setup</a>
-      <ul><li><li>
+      <ul><li>
        <a href="#Step-1:-Cloning Repositories">Cloning Repositories</a>
        <li>
         <a href="#Step-2:-Creating-Pilot-GitHub-Teams">Creating Pilot GitHub Teams</a>
