@@ -23,9 +23,12 @@
 ## Pilot GitHub Repository SetUp
 ### Step 1: Cloning Repository Templates
 ### Step 2: Creating Pilot GitHub Teams
-### Step 3: Managing Repository
 ### Step 4: Managing Pilot Teams
+### Step 3: Managing Repository
+#### Settings:
 ### Step 5: Other Actions
+#### Creating a README.md for your GitHub Repository
+####
 
 ## Installation
 #### Github Desktop Installation
