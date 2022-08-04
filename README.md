@@ -106,7 +106,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 Please reference ZLearning Resources/Github for information on cloning a repository, creating teams, and other required start-up actions.
-
+[GitHub Learning](https://github.com/VA-CCPI/Pilot_Template/zLearning/GitHub/README.md) 
 
 ### Installation
 #### Installing Github Desktop
