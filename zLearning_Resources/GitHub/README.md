@@ -16,7 +16,7 @@
         <a href="#Step-5:-Other-Actions">Other Actions</a>
      
     <ol>
-<details> 
+</details> 
 # Pilot GitHub Repository SetUp
 ##Step 1: Cloning Repository Templates
 ## Step 2: Creating Pilot GitHub Teams
