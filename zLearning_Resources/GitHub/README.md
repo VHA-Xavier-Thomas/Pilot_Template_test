@@ -48,6 +48,10 @@ Add a comment to the issue with the /invite user.email@va.gov</a> <li>
 
 ### Step 3: Cloning Repository
 https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va
+Cloning an existing GitHub repository will create a full copy on the user’s computer, allowing the user to make edits, add, and remove files, and push larger commits locally and easily.
+Changes can be made to the repository directory folders and pushed to the GitHub repository using the command line. 
+To clone an existing repository:1.On the main page of the GitHub repository, click the iconat the top right of the window.
+2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. 
   
 ### Step 4: Managing Repository
 ##### Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data
