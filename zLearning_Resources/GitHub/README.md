@@ -23,11 +23,11 @@
     </ol>
 </details> 
         
-## Pilot GitHub Repository Setup
+## Pilot GitHub Repository Setup </a>
 ### Step 1: Access to Veteran Affairs Enterprise at GitHub.com
 https://department-of-veterans-affairs.github.io/github-handbook/guides/onboarding/getting-access#step-1-githubcom-account <li>
 
-### Onboarding other users
+### Onboarding Other Users
 ###### Adding Users Through Github-Support
 <li> Navigate to github-support issues </a><li>
 Navigate to a user request issue or create a new issue detailing the user that is getting added </a><li>
