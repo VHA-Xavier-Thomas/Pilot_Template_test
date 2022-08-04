@@ -12,7 +12,7 @@
         <a href="#Step-3:-Managing-Repository">Managing Repository</a>
          <li>
          <a href="#Step-4:-Managing-Pilot-Teams">Managing Pilot Teams</a>
-          ><li>
+         <li>
         <a href="#Step-5:-Other-Actions">Other Actions</a>
         <li><li>
         <ul>
