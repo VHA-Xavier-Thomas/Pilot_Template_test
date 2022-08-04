@@ -17,8 +17,9 @@
      
     <ol>
 </details> 
+        
 # Pilot GitHub Repository SetUp
-##Step 1: Cloning Repository Templates
+## Step 1: Cloning Repository Templates
 ## Step 2: Creating Pilot GitHub Teams
 ## Step 3: Managing Repository
 ## Step 4: Managing Pilot Teams
