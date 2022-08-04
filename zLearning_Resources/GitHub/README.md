@@ -1,10 +1,16 @@
 
+      <!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
         <li><a href="#Cloning Repositories">Cloning Repositories</a></li>
         <li><a href="#Creating and Managing GitHub Pilot Teams">Creating and Managing GitHub Pilot Teams</a></li>
       </ul>
+    <ol>
+  <details>
       
 # Pilot GitHub Repository Set-Up
 #### Step 1: Cloning Repository Templates
