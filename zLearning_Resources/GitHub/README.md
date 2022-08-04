@@ -10,7 +10,8 @@
      </ul>
     <ol>
  <details>
-      
+     
+   <br>
 # Pilot GitHub Repository Set-Up
 #### Step 1: Cloning Repository Templates
 #### Step 2: Creating Pilot GitHub Teams
