@@ -11,12 +11,12 @@
         <li>
         <a href="###Step-3:-Cloning-Repository">Cloning Repository</a><ul>
          <li>
-         <a href="###Step-4:-Managing-Repository">Managing Repository</a>
-          </li>
+           <a href="###Step-4:-Managing-Repository">Managing Repository</a> <ul>
+          <li>
         <a href="###Step-5:-Standard-Naming-Conventions">Naming Conventions</a>
-        </li>
+        <li>
           <a href="###Step-6:-Installation">Installation</a>
-        </li>
+        <li>
         <a href="###Step-7:-Other-Actions">Other Actions</a>
         </ul>
         </li>
