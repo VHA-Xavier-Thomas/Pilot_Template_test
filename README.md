@@ -61,7 +61,7 @@
 </details>
 
 ## Pilot GitHub Setup
-Please reference [GitHub Learning](https://github.com/VA-CCPI/Pilot_Template/zLearning/GitHub/README.md)  for information on installation, cloning a repository, creating teams, and other required start-up actions.
+Please reference [Pilot GitHub Learning](https://github.com/VA-CCPI/Pilot_Template/zLearning/GitHub/README.md)  for information on installation, cloning a repository, creating teams, and other required start-up actions.
 
 <!-- PILOT DESCRIPTION -->
 # Introduction
