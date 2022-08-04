@@ -19,7 +19,7 @@
     <img src="https://github.com/VA-CCPI/Pilot_Template/blob/main/.images/CCPI.PNG" alt="Logo" width="210" height="60">
   </a>
 
-  <h3 align="center">Best Pilot README Template</h3>
+  <h3 align="center">Best Pilot Repo Template</h3>
 
   <p align="center">
     Pilot Code Purpose
