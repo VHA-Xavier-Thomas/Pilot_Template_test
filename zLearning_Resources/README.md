@@ -1,1 +1,6 @@
 
+Roadmaps
+https://roadmap.sh/
+
+Free programming books for all languages
+https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-de.md#python
