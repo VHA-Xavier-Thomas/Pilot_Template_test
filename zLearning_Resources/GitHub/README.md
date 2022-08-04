@@ -2,12 +2,12 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#Cloning Repositories">Cloning Repositories</a></li>
+    <ul>
+        <li><a href="#prerequisites">Prerequisites</a><ul>
+        <li><a href="#installation">Installation</a><ul>
+        <li><a href="#Cloning Repositories">Cloning Repositories</a><ul>
         <li><a href="#Creating and Managing GitHub Pilot Teams">Creating and Managing GitHub Pilot Teams</a></li>
-      </ul>
+     </ul>
     <ol>
  <details>
       
