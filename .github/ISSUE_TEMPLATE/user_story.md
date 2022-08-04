@@ -1,4 +1,3 @@
-
 ---
 name: User Story
 about: Product User Story
@@ -11,7 +10,6 @@ assignees: ''
 ## User Story
 
 - Related to Epic: #
-
 
 ### Description
 
