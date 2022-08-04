@@ -61,7 +61,6 @@ Pilot Code Repository Purpose:
 * Digital Transformation: Devops Integration with Implementation Teams to produce valuable product lines for field operations
 * Standard operations to reduce silos and enhance data-driven approaches in clinical care :smile:
 
-
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -72,9 +71,10 @@ Use the `BLANK_README.md` to get started.
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
+      <a href="#About-the-Pilot">About The Pilot</a>
+      <ul><li>
+      <a href="#Team-Contacts">Team Contacts</a>
+        <li><a href="#VA-Innovatio-Ecoysystem-Pilot-Implementation-Technology">VA Innovation Ecoysystem Pilot Implementation Technology</a></li>
       </ul>
     </li>
     <li>
@@ -82,6 +82,8 @@ Use the `BLANK_README.md` to get started.
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#Cloning Repositories">Cloning Repositories</a></li>
+        <li><a href="#Creating and Managing GitHub Pilot Teams">Creating and Managing GitHub Pilot Teams</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -93,6 +95,13 @@ Use the `BLANK_README.md` to get started.
   </ol>
 </details>
 
+<!-- PILOT DESCRIPTION -->
+## About the Pilot
+
+<!-- TEAM CONTACTS -->
+## Team Contacts
+
+## VA Innovation Ecoysystem Pilot Implementation Technology
 
 <!-- GETTING STARTED -->
 ## Getting Started
