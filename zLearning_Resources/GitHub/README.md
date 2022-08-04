@@ -51,7 +51,7 @@ https://department-of-veterans-affairs.github.io/github-handbook/github-repo-set
 <li>Cloning an existing GitHub repository will create a full copy on the user’s computer, allowing the user to make edits, </a>
 add, and remove files, and push larger commits locally and easily. </a>
 <li>Changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.  </a>
-<li>To clone an existing repository:</ul> <li>
+<li>To clone an existing repository:<a\> <li>
 1.On the main page of the GitHub repository, click the iconat the top right of the window. <a/> <li>
 2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. <a/>
   
