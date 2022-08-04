@@ -68,9 +68,9 @@ Please reference [GitHub Learning](https://github.com/VA-CCPI/Pilot_Template/zLe
 ## About The Pilot
 [![Pilot Name Screen Shot][product-screenshot]](https://www.innovation.va.gov/careandpayment/home.html)
 ## Pilot Repository Template Purpose
-This repository is a template for code projects at VA.
-While this template doesn't contain code -- that's for you to add -- it does have the issue templates and standard folder 
-structure you will need for agile project management at VA.
+This repository is a template pilot programs at the VA.
+While this template doesn't contain code or documentation--  it does have a code issue template and standard folder 
+structure you will need for agile project management at VA. This repository coincides with the code-project and product repositories. 
 
 Take this template, and add your code. This will include all Tools, Data Exploration, Design, Analysis, Monitoring and Evaluation, and 
 DevOps/DevSecOps required to ensure Pilot scalability and evaluation.
