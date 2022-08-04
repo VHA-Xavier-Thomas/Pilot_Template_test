@@ -7,12 +7,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-
+<!--
 
 <!-- Pilot LOGO -->
 <br />
@@ -30,7 +30,7 @@
     <br />
     <a href="https://github.com/department-of-veterans-affairs/demo-product">View Optimal Sample Product Demo</a>
     ·
-    <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/test.md"> AHDR SQL </a>
+    <a href="https://github.com/VA-CCPI/Pilot_Template/Code"> AHDR SQL </a>
     <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/bug_report.md">Report Bug</a>
     ·
     <a href="https://github.com/VA-CCPI/Pilot_Template/.github/ISSUE_TEMPLATE/task.md"> Task </a>
